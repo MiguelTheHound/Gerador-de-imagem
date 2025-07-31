@@ -11,9 +11,12 @@ setup(
     version = "0.0.1",
     author= "Adilson Miguel",
     author_email= "miguelvladimir79@gmail.com",
-    name= "processador_imagens",
-    version = "0.0.1",
+    description="Um gerador de imagens, que procuara por diferenças",
+    long_description=page_description,
+    long_description_content_type= "text/markdown",
+    url= "https://github.com/MiguelTheHound/Gerador-de-imagem",
     packages= find_packages(),
-
+    install_requires ="requirements",
+    python_requires = '>= 3.8' 
 )
       

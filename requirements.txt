@@ -1,0 +1,7 @@
+- Python
+
+- Matplotlib
+
+- Scikit-learn
+
+- Setuptools
